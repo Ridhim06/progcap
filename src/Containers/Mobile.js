@@ -78,31 +78,31 @@ function Mobile() {
                     <div style={{color:"blue",display: "flex", justifyContent: "center", alignItems: "center",flexWrap:"wrap"}}>
                         <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"30%"}}>
                             <div><i class="fa-sharp fa-solid fa-plus"></i></div>
-                            <div style={{height:"55px",textAlign:"center"}}>Create<br></br>Order</div>
+                            <div style={{height:"50px",textAlign:"center"}}>Create<br></br>Order</div>
                         </div>
 
                         <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"30%"}}>
                             <div><i class="fa-solid fa-file-signature"></i></div>
-                            <div style={{height:"55px",textAlign:"center"}}>Promise<br></br> To Order</div>
+                            <div style={{height:"50px",textAlign:"center"}}>Promise<br></br> To Order</div>
                         </div>
 
                         <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"30%"}}>
                             <div><i class="fa-solid fa-wallet"></i></div>
-                            <div style={{height:"55px",textAlign:"center"}}>  PDC<br></br>Collected</div>
+                            <div style={{height:"50px",textAlign:"center"}}>  PDC<br></br>Collected</div>
                         </div>
                         <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"30%"}}>
                             <div><i class="fa-solid fa-wallet"></i></div>
-                            <div style={{height:"55px",textAlign:"center"}}>Promise<br></br>To Pay</div>
-                        </div>
-
-                        <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"30%"}}>
-                            <div><i class="fa-solid fa-wallet"></i></div>
-                            <div style={{height:"55px",textAlign:"center"}}>Cash<br></br>Collected</div>
+                            <div style={{height:"50px",textAlign:"center"}}>Promise<br></br>To Pay</div>
                         </div>
 
                         <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"30%"}}>
                             <div><i class="fa-solid fa-wallet"></i></div>
-                            <div style={{height:"55px",textAlign:"center"}}><br></br>Visit</div>
+                            <div style={{height:"50px",textAlign:"center"}}>Cash<br></br>Collected</div>
+                        </div>
+
+                        <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"30%"}}>
+                            <div><i class="fa-solid fa-wallet"></i></div>
+                            <div style={{height:"50px",textAlign:"center"}}><br></br>Visit</div>
                         </div>
 
                     </div>
