@@ -78,31 +78,31 @@ function Mobile() {
                     <div style={{color:"blue",display: "flex", justifyContent: "center", alignItems: "center",flexWrap:"wrap"}}>
                         <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"25%"}}>
                             <div><i class="fa-sharp fa-solid fa-plus"></i></div>
-                            <div style={{height:"40px"}}>Create<br></br>Order</div>
+                            <div style={{height:"50px",textAlign:"center"}}>Create<br></br>Order</div>
                         </div>
 
                         <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"25%"}}>
                             <div><i class="fa-solid fa-file-signature"></i></div>
-                            <div style={{height:"40px",alignContent:"center"}}>Promise<br></br> To Order</div>
+                            <div style={{height:"50px",alignContent:"center"}}>Promise<br></br> To Order</div>
                         </div>
 
                         <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"25%"}}>
                             <div><i class="fa-solid fa-wallet"></i></div>
-                            <div style={{height:"40px"}}>  PDC<br></br>Collected</div>
+                            <div style={{height:"50px",alignContent:"center"}}>  PDC<br></br>Collected</div>
                         </div>
                         <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"25%"}}>
                             <div><i class="fa-solid fa-wallet"></i></div>
-                            <div style={{height:"40px"}}>Promise<br></br>To Pay</div>
-                        </div>
-
-                        <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"25%"}}>
-                            <div><i class="fa-solid fa-wallet"></i></div>
-                            <div style={{height:"40px"}}>Cash<br></br>Collected</div>
+                            <div style={{height:"50px",alignContent:"center"}}>Promise<br></br>To Pay</div>
                         </div>
 
                         <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"25%"}}>
                             <div><i class="fa-solid fa-wallet"></i></div>
-                            <div style={{height:"40px"}}><br></br>Visit</div>
+                            <div style={{height:"50px",alignContent:"center"}}>Cash<br></br>Collected</div>
+                        </div>
+
+                        <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"25%"}}>
+                            <div><i class="fa-solid fa-wallet"></i></div>
+                            <div style={{height:"50px",alignContent:"center"}}><br></br>Visit</div>
                         </div>
 
                     </div>
@@ -121,11 +121,11 @@ function Mobile() {
                         <div style={{ display: "flex", justifyContent: "center", alignItems: "center",paddingTop:"0.5rem" }}>
                             <div style={{width:"20%" ,display: "flex", justifyContent: "center", alignItems: "center"}}>
                             <div style={{fontWeight:"bold",backgroundColor:"lightgrey",border: "1px ", borderRadius: "12px",fontSize:"12px",padding:"15px",width:"60px"}}>
-                            <div style={{fontSize:"20px"}}>25</div>
+                            <div style={{fontSize:"25px"}}>25</div>
                             <div>NOV</div>
                             </div>
                             </div>
-                            <div style={{width:"80%"}}>
+                            <div style={{width:"80%",paddingLeft:"10px"}}>
                                 <div style={{display:"flex",width:"100%",justifyContent: "space-between"}}>
                                     <div style={{width:"30%",fontWeight:"bold",}}><span>&#x20b9;</span>12,800</div>
                                     <div style={{width:"70%",color:"#008B8B",fontWeight:"bold"}}><span>&#x20b9;</span>850 Cashback</div>
@@ -162,7 +162,7 @@ function Mobile() {
                             <div>NOV</div>
                             </div>
                             </div>
-                            <div style={{width:"80%"}}>
+                            <div style={{width:"80%", paddingLeft:"10px"}}>
                                 <div style={{display:"flex",width:"100%",justifyContent: "space-between"}}>
                                 <div style={{width:"30%",fontWeight:"bold",}}><span>&#x20b9;</span>12,800</div>
                                     <div style={{width:"70%",color:"#008B8B",fontWeight:"bold"}}><span>&#x20b9;</span>850 Cashback</div>
@@ -179,7 +179,7 @@ function Mobile() {
                             <div>NOV</div>
                             </div>
                             </div>
-                            <div style={{width:"80%"}}>
+                            <div style={{width:"80%",alignContent:"center"}}>
                                 <div style={{display:"flex",width:"100%",justifyContent: "space-between"}}>
                                 <div style={{width:"30%",fontWeight:"bold"}}><span>&#x20b9;</span>12,800</div>
                                     <div style={{width:"70%",fontWeight:"bold"}}>Intrest: <span>&#x20b9;</span>850</div>
