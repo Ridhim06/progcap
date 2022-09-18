@@ -83,26 +83,26 @@ function Mobile() {
 
                         <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"25%"}}>
                             <div><i class="fa-solid fa-file-signature"></i></div>
-                            <div style={{height:"50px",alignContent:"center"}}>Promise<br></br> To Order</div>
+                            <div style={{height:"50px",textAlign:"center"}}>Promise<br></br> To Order</div>
                         </div>
 
                         <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"25%"}}>
                             <div><i class="fa-solid fa-wallet"></i></div>
-                            <div style={{height:"50px",alignContent:"center"}}>  PDC<br></br>Collected</div>
+                            <div style={{height:"50px",textAlign:"center"}}>  PDC<br></br>Collected</div>
                         </div>
                         <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"25%"}}>
                             <div><i class="fa-solid fa-wallet"></i></div>
-                            <div style={{height:"50px",alignContent:"center"}}>Promise<br></br>To Pay</div>
-                        </div>
-
-                        <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"25%"}}>
-                            <div><i class="fa-solid fa-wallet"></i></div>
-                            <div style={{height:"50px",alignContent:"center"}}>Cash<br></br>Collected</div>
+                            <div style={{height:"50px",textAlign:"center"}}>Promise<br></br>To Pay</div>
                         </div>
 
                         <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"25%"}}>
                             <div><i class="fa-solid fa-wallet"></i></div>
-                            <div style={{height:"50px",alignContent:"center"}}><br></br>Visit</div>
+                            <div style={{height:"50px",textAlign:"center"}}>Cash<br></br>Collected</div>
+                        </div>
+
+                        <div style={{margin:"3px",display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column", border: "1px solid blue", borderRadius: "12px", padding: "1rem", marginTop: "30px", marginBottom: "3px",width:"25%"}}>
+                            <div><i class="fa-solid fa-wallet"></i></div>
+                            <div style={{height:"50px",textAlign:"center"}}><br></br>Visit</div>
                         </div>
 
                     </div>
